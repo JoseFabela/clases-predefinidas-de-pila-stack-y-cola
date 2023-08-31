@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clases predefinidas de pila stack y cola", "clases predefinidas de pila stack y cola\clases predefinidas de pila stack y cola.csproj", "{DAB8EB97-DA75-4036-AF0C-01EEE610EEE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAB8EB97-DA75-4036-AF0C-01EEE610EEE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAB8EB97-DA75-4036-AF0C-01EEE610EEE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAB8EB97-DA75-4036-AF0C-01EEE610EEE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAB8EB97-DA75-4036-AF0C-01EEE610EEE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E000C1F-A4EB-49BC-A0C1-A0D4C135691C}
+	EndGlobalSection
+EndGlobal
